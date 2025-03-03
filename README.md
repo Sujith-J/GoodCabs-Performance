@@ -6,3 +6,6 @@ Goodcabs, a cab service company established two years ago, has gained a strong f
 Problem Statement
 
 With operations in ten tier-2 cities across India, Goodcabs has set ambitious performance targets for 2024 to drive growth and improve passenger satisfaction. As part of this initiative, the Goodcabs management team aims to assess the company’s performance across Key Metrics, including Trip Volume, Passenger Satisfaction, Repeat Passenger Rate, Trip Distribution, and the balance between New and Repeat passengers.
+
+Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiN2IyZWY2MDEtOTY0YS00ZmE2LTg3Y2YtY2M0NDMwY2ZlZmEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
